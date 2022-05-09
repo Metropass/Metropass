@@ -2,14 +2,15 @@
 
 
 My name is Mohammed Ahmed, but you can call me Mo!
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.Metropass)
 
 ![](typing-bentley.gif)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.Metropass)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metropass)
 
 <h2> About Me: </h2>
-#####I am a Developer who loves to learn about interesting technologies. 
+I am a Developer who loves to learn about interesting technologies. 
 I mostly worked on projects that relate to old Video Game Consoles/Emulators. I will be uploading some of my old projects that I worked on for the PlayStation 2 and Nintendo GameCube/Wii.
 
 - 🔭 I’m currently working on ...
